@@ -1,4 +1,4 @@
-# stock-market-tensor-flow
+# Stock Market with Python and Tensor Flow.
 Cria um modelo que prevê a entrada no mercado de ações brasileiro usando Python, Machine Learning e TensorFlow.
 
 Para criar um modelo que prevê a entrada no mercado de ações brasileiro usando Python, Machine Learning e TensorFlow, podemos seguir um processo similar ao anterior, mas utilizando redes neurais através do TensorFlow. Aqui está um exemplo passo a passo:
